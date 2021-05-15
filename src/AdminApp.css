@@ -1,0 +1,11 @@
+
+  
+  .adminheader, .adminmain, .adminfooter {
+    padding-left: 300px;
+  }
+  
+  @media only screen and (max-width : 992px) {
+    .adminheader, .adminmain, .adminfooter {
+      padding-left: 0;
+    }
+  }

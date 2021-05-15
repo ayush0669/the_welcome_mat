@@ -1,0 +1,55 @@
+ .imggg{
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+   }
+
+  .banner-text{
+      position: absolute;
+      top: 50%;
+      left: 53%;
+      transform: translate(-50%,-50%);
+      z-index: 5;
+      width: 90%;
+      height: 50%;
+      padding: 0px 0; 
+      text-align: center;
+      margin-top:50px ;
+      background-color: rgba(0, 0, 0, 0) 
+     }
+
+     .texta{
+         
+         font-size: 21px;
+         padding: 5px;
+         
+     }
+
+     .input-field input[type=text]:focus + label {
+        color: rgb(131, 130, 130);
+     }
+
+      /* .input-field input[type=text]:focus {
+        border-bottom: 1px solid #000;
+        box-shadow: 10px 10px 10px 10px  #000;
+      } */
+
+    .loginform{
+
+      font-weight: bold;
+      color:white;
+       width: 20%;
+       height: 80%;
+       border-radius: 15px 15px 15px 15px;
+       background: rgba(0, 0, 0, 0.7)
+       
+    }  
+
+
+    .vl {
+      border-left: 1px solid black;
+      height: 300px;
+    }
+    .logg{
+      margin-top:30px ;
+    }

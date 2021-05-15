@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name": "Aloo Paratha",
+        "price": "60"
+    },
+    {
+        "id":2,
+        "name": "Upma",
+        "price": "50"
+    },
+    {
+        "id":3,
+        "name": "Masala Dosa",
+        "price": "70"
+    },
+    {
+        "id":4,
+        "name": "Idli",
+        "price": "40"
+    },
+    {
+        "id":5,
+        "name": "Sambhar vada",
+        "price": "35"
+    }
+]

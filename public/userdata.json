@@ -1,0 +1,58 @@
+[
+    {
+        "number": 1,
+        "username": "M S Dhoni",
+        "checkin": "21/03/2020",
+        "checkout": "29/03/2020",
+        "room": "360B"
+    },
+	{
+        "number": 2,
+        "username": "Rohit Sharma",
+        "checkin": "07/04/2020",
+        "checkout": "16/04/2020",
+        "room": "240C"
+    },
+    {
+        "number": 3,
+        "username": "Virat Kohli",
+        "checkin": "15/04/2020",
+        "checkout": "21/04/2020",
+        "room": "180A"
+    },
+    {
+        "number": 4,
+        "username": "Hashim Amla",
+        "checkin": "28/04/2020",
+        "checkout": "09/05/2020",
+        "room": "222B"
+    },
+    {
+        "number": 5,
+        "username": "Kumar Sangakara",
+        "checkin": "05/05/2020",
+        "checkout": "16/05/2020",
+        "room": "145A"
+    },
+    {
+        "number": 6,
+        "username": "Steve Smith",
+        "checkin": "17/05/2020",
+        "checkout": "27/05/2020",
+        "room": "222B"
+    },
+	{
+        "number": 7,
+        "username": "Trent Boult",
+        "checkin": "23/05/2020",
+        "checkout": "27/05/2020",
+        "room": "002A"
+    },
+	{
+        "number": 8,
+        "username": "Babar Azam",
+        "checkin": "08/06/2020",
+        "checkout": "22/06/2020",
+        "room": "333C"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "orderno": 1,
+        "category": "Food",
+        "itemname": "Aloo Paratha",
+        "itemprice": 60,
+        "quantity": 2,
+        "total": 120,
+        "time": "12:01:45"
+    }
+	{
+        "orderno": 2,
+        "category": "Laundary",
+        "itemname": "Wash,Iron",
+        "itemprice": "-",
+        "quantity": 5,
+        "total": "-",
+        "time": "11:11:45"
+    },
+    {
+        "orderno": 3,
+        "category": "Housekeeping",
+        "itemname": "Sweeping",
+        "itemprice": "-",
+        "quantity": "-",
+        "total": "-",
+        "time": "1:01:45"
+    },
+    {
+        "orderno": 4,
+        "category": "Electrical Maintainance",
+        "itemname": "Ceiling fan",
+        "itemprice": "-",
+        "quantity": "-",
+        "total": "-",
+        "time": "2:01:45"
+    },
+    {
+         "orderno": 5,
+        "category": "Internet",
+        "itemname": "Inc dwld speed",
+        "itemprice": "100",
+        "quantity": "-",
+        "total": "100",
+        "time": "12:01:45"
+    }
+]
